@@ -2,7 +2,7 @@
 
 ### Algoritmos:
 
-- Bubble Sort (execução limitada 10³ para 10⁴)
+- Bubble Sort (execução limitada somente de 10³ para 10⁴)
 - Merge Sort
 - Quick Sort
 - Counting Sort
